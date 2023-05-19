@@ -1,0 +1,11 @@
+$var=[byte] #10
+@size=1
+
+[long] +4
+[size] var
+[4] -3
+[8] 1.0 /*8 byte float*/
+"hello world\n"
+'how are you\n'
+'test a quote " in another quote\n'
+"test a quote ' in another quote\n"

@@ -1,0 +1,19 @@
+[byte] +5
+    [byte] +2
+    "hi"
+    
+    [byte] +5
+    "hello"
+    
+    [byte] +5
+    "world"
+    
+    [byte] +4
+    "main"
+    
+    [byte] +1
+    "a"
+[byte] +1
+[long] +3
+[byte] +0
+[byte] +2

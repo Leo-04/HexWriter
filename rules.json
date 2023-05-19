@@ -1,0 +1,17 @@
+{
+    "format": "[n] $num_mod; [@module:$num_mod]; [byte] $a; [0=@byteplz,1=@longplz]? $a; [byte] $b; [0=@byteplz,1=@longplz]? $b",
+    
+    "structs": {
+         "@module": "[byte]h $length; [byte:$length]s",
+         "@byteplz": "[byte]!",
+         "@longplz": "[long]"
+    },
+    
+    "sizes":{
+        "n": 1
+    },
+
+    "defines": {
+        "#2": "yes"
+    }
+}
